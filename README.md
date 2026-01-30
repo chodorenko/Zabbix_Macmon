@@ -141,25 +141,6 @@ The template includes a built-in dashboard with the following graphs:
 
 ---
 
-## Screenshots
-
-### Overview Dashboard
-_Add screenshot here_
-
-### Power Consumption
-_Add screenshot here_
-
-### Temperature Monitoring
-_Add screenshot here_
-
-### CPU / GPU Usage
-_Add screenshot here_
-
-### Memory and Swap Usage
-_Add screenshot here_
-
----
-
 ## Troubleshooting
 
 - Ensure `macmon` runs correctly when executed manually.
